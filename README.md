@@ -2,7 +2,7 @@
 ## And use a VPS as relay server to reduce latency
 ---
 This guide will help you to:
-- Resolve 6023 error on Parsec.
+- Resolve 6023/6024 error on Parsec.
 - Setup port forwarding in a VPS.
 - Setup Tailscale to work with Parsec and Moonlight.
 - Open port without modify router's config.
