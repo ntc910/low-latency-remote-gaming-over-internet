@@ -8,7 +8,7 @@ This guide will help you to:
 - Open port without modify router's config.
 
 When do you need/follow this guide:
-- Setup your PC as host for low latency game streaming.
+- Setup your PC as host for low latency game streaming. Note that this guide is good when you go outside of your network/home...
 - You can't setup Port Forwarding.
 - You're not the owner of the network.
 - You don't have the permission to config the network.
@@ -75,6 +75,8 @@ Now, it's time to setup the VPS as relay server to reduce the latency.
 - Choose the provider that place their server on your country/ city because this will give you the lowest ping.
 - Choose the lowest configuration because this don't need a high performance and this will save your money. In my case, I choose 1 CPU core, 1 GB of RAM, 100 Mbps with unlimited data usage.
 - Choose the Linux as Operating System. Ubuntu is recommended.
+
+If your friend/etc... home network have the public IP, you can use a TV box or some small linux machine (with linux) and make it as a VPS but you need to setup port forwarding in the Router. B)
 
 ---
 
