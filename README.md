@@ -82,7 +82,7 @@ Host PC <-> Client PC = 100ms :(
 Host PC <-> VPS       = 4ms
 VPS     <-> Client PC = 4ms
 ```
-
+=> So, If we can make the traffic through the vps, we can get a good ping.
 #### 1. Now inside the VPS console:
 - Update your VPS:
 ```bash
