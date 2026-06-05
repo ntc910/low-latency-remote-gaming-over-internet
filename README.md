@@ -227,5 +227,12 @@ With a VPS located in your city:
 - **Parsec Reset:** If you want to go back to a normal connection without Tailscale/VPS, remember to remove the `app_custom_address` line from your `config.json`.
 - **Bandwidth:** Ensure your VPS has enough bandwidth. 1080p 60fps gaming typically requires 20-30Mbps.
 
+## How to turn your PC on when you are not home
+
+- Buy a module that support
+- Turn on feature wake on AC /power on BIOS and use a smart plug
+- Wake on lan with port forwarding (risky)
+- Wake on lan use a local modules
+
 ---
 ~ Good luck and happy gaming! 🚀
