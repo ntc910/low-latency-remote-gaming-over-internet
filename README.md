@@ -232,7 +232,8 @@ sudo netfilter-persistent save
 ```
 
 ### 4. Final Configuration
-- **Parsec:** Set "Host Start Port" to `9000` on the Host PC. In `config.json`, change `app_custom_address` to the **VPS's Tailscale IP** (or Public IP).
+- **NOTE:** the provider usually give you a public IP and it **will not change**
+- **Parsec:** Set "Host Start Port" to `9000` on the Host PC. In `config.json`, change `app_custom_address` to the **VPS's Tailscale IP** or VPS's Public IP
 - **Moonlight:** Add the **VPS's IP** in the Moonlight app.
 
 ### Why use a VPS? (Performance Comparison)
